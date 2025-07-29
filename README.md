@@ -32,8 +32,9 @@ Desarrollada en Apache NetBeans IDE 26, con conexión a base de datos MySQL medi
 ## Componente visual integrado
 
 - Implementamos el módulo **[JMenuBar Personalizable]
-(https://github.com/Isa-Tomar/JMenuBar-Personalizable)** del **Equipo 8** para una mejor experiencia visual en el menú principal.
-
+- (https://github.com/Isa-Tomar/JMenuBar-Personalizable)** del **Equipo 8** para una mejor experiencia visual en el menú principal.
+- (https://github.com/fergmlx/componente-menu-lateral)** implementacion del componente visual menubar vertical hecho por **el equipo 3**.
+  
 ---
 
 ## Funcionalidades Clave
@@ -80,10 +81,12 @@ Se genera una imagen y se valida contra la entrada del usuario.
 
 ### ⚙️ Pasos para instalar/ejecutar
 1. Clonar o descargar el repositorio del proyecto.
-2. Abrir el proyecto en NetBeans o IDE compatible con Java.
-3. Agregar todas las librerías del proyecto.
-4. Ejecutar la clase `Login.java` desde el paquete `login`.
-5. Asegurarse de tener base de datos activa y configurada en la librería `LibreriaSQL`.
+2. Descomprimir el achivo login.
+3. Al descomprimir veremos otros 2 arvhicos comprimidos, es importante que estos igual se descompriman y las carpetas dentro del archivo comprimido se coloquen dentro de la carpeta login.
+4. Abrir el proyecto en NetBeans o IDE compatible con Java.
+5. Agregar todas las librerías del proyecto.
+6. Ejecutar la clase `Login.java` desde el paquete `login`.
+7. Asegurarse de tener base de datos activa y configurada en la librería `LibreriaSQL`.
 
 ### 🖥️ Requisitos mínimos
 - Java 11 o superior  
