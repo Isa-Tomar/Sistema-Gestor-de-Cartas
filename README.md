@@ -41,7 +41,7 @@ Desarrollada en Apache NetBeans IDE 26, con conexión a base de datos MySQL medi
 ### 🔐 Integración de CAPTCHA
 - El sistema genera un CAPTCHA personalizado al **registrarse un nuevo usuario**, asegurando que el proceso no sea automatizado. 
 Se genera una imagen y se valida contra la entrada del usuario.
-![vregistro](/Capturas/vregistro.jpeg)
+![vregistro](/Capturas/vregistro.jpg)
 
 
 ### 👥 CRUD de Usuarios
