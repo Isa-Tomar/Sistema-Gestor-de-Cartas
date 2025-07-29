@@ -77,7 +77,8 @@ Se genera una imagen y se valida contra la entrada del usuario.
 ### 📚 Librerías externas usadas
 - **JavaMail** (incluido en librería del equipo 2)
 - **Librería del Equipo 2** para correos (correo con PDF/imágenes)  
-- **JMenuBar del Equipo 8** para menús personalizados
+- **JMenuBar del Equipo 8** para menús personalizados.
+- **JMenuBar del Equipo 3** para menús personalizados de estilo vertical.
 
 ### ⚙️ Pasos para instalar/ejecutar
 1. Clonar o descargar el repositorio del proyecto.
