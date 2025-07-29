@@ -41,32 +41,32 @@ Desarrollada en Apache NetBeans IDE 26, con conexión a base de datos MySQL medi
 ### 🔐 Integración de CAPTCHA
 - El sistema genera un CAPTCHA personalizado al **registrarse un nuevo usuario**, asegurando que el proceso no sea automatizado. 
 Se genera una imagen y se valida contra la entrada del usuario.
-![vregistro](/Capturas/vregistro.jpg)
+![vregistro](/Capturas/vregistro.jpeg)
 
 
 ### 👥 CRUD de Usuarios
 - Registro de nuevos usuarios con correo electrónico y validación visual.
 - Inicio de sesión con validación contra base de datos.
 - Interfaz de administración para visualizar usuarios.
-![tablausuario](/Capturas/tablausuario.jpg)
+![tablausuario](/Capturas/tablausuario.jpeg)
 
 
 ### 🃏 CRUD de Cartas
 - Alta, edición y eliminación de cartas TCG dentro del sistema.
 - Visualización detallada de las cartas con atributos como nombre, tipo, rareza, ataque, defensa e imagen.
-![modcarta](/Capturas/modcarta.jpg)
-![tablacarta](/Capturas/tablacarta.jpg)
+![modcarta](/Capturas/modcarta.jpeg)
+![tablacarta](/Capturas/tablacarta.jpeg)
 
 ### 📬 Envío de Correo Electrónico con Imagen Adjunta
 - Al registrarse, el sistema envía una confirmación por correo con imagen adjunta usando **JavaMail** a través de la **librería del equipo 2**.  
-![correo](/Capturas/correo.jpg)
+![correo](/Capturas/correo.jpeg)
 
 ### 🌟 Otras funcionalidades únicas
 - Personalización visual con imágenes de fondo en diferentes ventanas.
 - Visualización de cartas en una interfaz estilo juego TCG.
 - Módulo administrativo con pestañas de gestión de cartas y juegos.
 - Visualización de cartas en modo ampliado.
-![vercarta](/Capturas/vercarta.jpg)
+![vercarta](/Capturas/vercarta.jpeg)
 
 
 ---
