@@ -33,7 +33,7 @@ Desarrollada en Apache NetBeans IDE 26, con conexión a base de datos MySQL medi
 
 - Implementamos el módulo **[JMenuBar Personalizable]
 - (https://github.com/Isa-Tomar/JMenuBar-Personalizable)** del **Equipo 8** para una mejor experiencia visual en el menú principal.
-- (https://github.com/fergmlx/componente-menu-lateral)** implementacion del componente visual menubar vertical hecho por **el equipo 3**.
+- (https://github.com/fergmlx/componente-menu-lateral)** implementacion del componente visual menubar vertical hecho por el **Equipo 3**.
   
 ---
 
