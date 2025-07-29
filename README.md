@@ -66,7 +66,7 @@ Se genera una imagen y se valida contra la entrada del usuario.
 - Visualización de cartas en una interfaz estilo juego TCG.
 - Módulo administrativo con pestañas de gestión de cartas y juegos.
 - Visualización de cartas en modo ampliado.
-![vercarta](/Capturas/vercarta.jpeg)
+![vercarta](/Capturas/vercarta.jpg)
 
 
 ---
